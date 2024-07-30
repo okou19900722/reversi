@@ -51,7 +51,7 @@ jobs:
           # cocos creator version
           cocos_version: 3.8.3 # optional, default is 0.0.0
           # cocos creator type(2d/3d)
-          cocos_type: 3d # optional, default is 2d
+          # cocos_type: 3d # optional, default is 2d
           # project path for build
           # project_path: # optional, default is ./
           # platform to build
